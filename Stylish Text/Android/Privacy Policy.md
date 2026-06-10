@@ -1,64 +1,122 @@
-**Privacy Policy**
+# Privacy Policy
 
-RuralGeeks built the Stylish Text app as a Freemium app. This SERVICE is provided by RuralGeeks at no cost and is intended for use as is.
+**Last Updated: June 2026**
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+RuralGeeks ("we", "our", or "us") operates the Stylish Text application ("App").
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+We designed Stylish Text with privacy in mind. Most features work entirely on your device, and we do not collect or store the content you create, type, copy, paste, or share using the App.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Stylish Text unless otherwise defined in this Privacy Policy.
+## Information We Do Not Collect
 
-**Information Collection and Use**
+We do not collect, store, transmit, or share:
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+* Text you type using Stylish Text or Stylish Text Keyboard
+* Text you convert into stylish text
+* Clipboard content copied by you
+* Screenshots displayed by the keyboard
+* Images selected for sticker creation
+* Stickers created by you
+* Content accessed through Accessibility Service
 
-The app does use third party services that may collect information used to identify you.
+This information remains on your device and is processed locally to provide the requested functionality.
 
-Link to privacy policy of third party service providers used by the app
+## Stylish Text Keyboard
 
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+Stylish Text includes a keyboard that provides text styling, symbols, emojis, stickers, hashtags, clipboard access, and other typing-related features.
 
-**Log Data**
+The keyboard does not transmit or sync what you type to our servers. Typed content is processed locally on your device to provide keyboard functionality.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+We do not maintain cloud backups, cloud synchronization, or remote storage of keyboard input.
 
-**Cookies**
+## Accessibility Service
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Some Stylish Text features use Android Accessibility Service to help users quickly apply stylish text across other applications through floating bubbles, floating bars, and related tools.
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Accessibility data is used solely to provide these user-requested features and is processed on the device.
 
-**Service Providers**
+We do not collect, store, share, sell, or transmit any information obtained through Accessibility Service.
 
-I may employ third-party companies and individuals due to the following reasons:
+## Clipboard and Screenshot Features
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+Stylish Text Keyboard may provide clipboard functionality to help users access recently copied text.
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Clipboard entries are stored locally on the device and are not transmitted to our servers.
 
-**Security**
+If the **"Show recent screenshots in the suggestions bar"** feature is enabled, the keyboard may access recent screenshots stored on the device and display them in the suggestions bar for quick insertion into supported applications.
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+Screenshots remain on the device and are never uploaded or transmitted by us.
 
-**Links to Other Sites**
+## Sticker Creation, Camera, and Media Access
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Users can create custom stickers by selecting images from their device or by taking photos using the device camera.
 
-**Children’s Privacy**
+Selected images are processed locally on the device to create stickers.
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+We do not upload, store, transmit, or share user images or generated stickers.
 
-**Changes to This Privacy Policy**
+## Analytics and Crash Reporting
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+We use Firebase Analytics and Firebase Crashlytics to understand how the App is being used, improve features, identify bugs, and enhance performance.
 
-This policy is effective as of 2021-05-22
+This may include:
 
-**Contact Us**
+* Device type and model
+* Operating system version
+* App version
+* Feature usage information
+* App interactions such as button clicks and screen views
+* Crash logs and diagnostic information
+* Performance-related information
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at stylishtext.app@gmail.com.
+We do not use Firebase Analytics or Crashlytics to collect the content of text typed by users, clipboard content, screenshots, stickers, or images selected for sticker creation.
+
+## Advertising
+
+Stylish Text uses Google AdMob to display advertisements.
+
+Google and its advertising partners may collect and process certain information, including advertising identifiers, device information, and ad interaction data, to provide and measure advertisements.
+
+## In-App Purchases
+
+Stylish Text offers optional premium features through Google Play Billing.
+
+All payments are processed securely by Google Play.
+
+We do not receive, process, or store payment card information, banking details, or payment credentials.
+
+## Data Sharing
+
+We do not sell personal information.
+
+We do not share user-generated content such as typed text, clipboard content, screenshots, stickers, or images with third parties.
+
+Certain technical, analytics, advertising, and purchase-related information may be processed by trusted third-party service providers, including:
+
+* Google AdMob
+* Firebase Analytics
+* Firebase Crashlytics
+* Google Play Billing
+
+## Data Security
+
+We take reasonable measures to protect information processed by the App and continuously work to improve security and reliability.
+
+However, no method of electronic transmission or storage can be guaranteed to be completely secure.
+
+## Children's Privacy
+
+We do not knowingly collect personal information from children.
+
+If you believe a child has provided personal information through the App, please contact us.
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+
+Any changes will be reflected by updating the "Last Updated" date at the top of this page.
+
+## Contact Us
+
+**RuralGeeks**
+
+Email: [stylishtext.app@gmail.com](mailto:stylishtext.app@gmail.com)
